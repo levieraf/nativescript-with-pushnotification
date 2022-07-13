@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054796377907",
+    "project_id": "apurvamanapp",
+    "storage_bucket": "apurvamanapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054796377907:android:4236d79f361346ed9e5846",
+        "android_client_info": {
+          "package_name": "com.apurvamanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054796377907-qp3ct52ld72hrs0rm14qgeqdsq6eufb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMZsYIf96MVL2HroE9sQc4YReeIt9szD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054796377907-qp3ct52ld72hrs0rm14qgeqdsq6eufb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
